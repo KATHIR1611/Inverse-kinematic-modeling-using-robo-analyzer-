@@ -52,12 +52,11 @@ update the DH parameters of the link configuration and end effector configuratio
 RPR ROBOT
  
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/61a7eb3b-a1f4-40e0-ac83-c9f9e4363e67)
-
-
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/fd6a4ef4-d081-481b-b21c-9ec38be5b3ce)
 
  
 3R ROBOT
+
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/c12350ee-2dc5-4fc0-a806-7911ee01299e)
 
  
@@ -66,9 +65,6 @@ RPR ROBOT
 RPR ROBOT
 
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/1478f9c6-765f-477a-b7e3-b239d3fb8eaf)
-
-
-
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/b74a11c1-7f99-449d-ad37-62eae838d13c)
 
 
@@ -76,9 +72,6 @@ RPR ROBOT
 3R ROBOT
 
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/64878869-50b4-4245-9896-a2b8fc288805)
-
-
-
 ![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/5cfe6aec-49f6-4933-b3e1-3f11ff019716)
 
 ## Result :  
