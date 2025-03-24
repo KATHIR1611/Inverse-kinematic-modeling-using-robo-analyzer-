@@ -64,9 +64,9 @@ RPR ROBOT
 
 RPR ROBOT
 
-![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/1478f9c6-765f-477a-b7e3-b239d3fb8eaf)
-![image](https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/b74a11c1-7f99-449d-ad37-62eae838d13c)
+<img src="https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/1478f9c6-765f-477a-b7e3-b239d3fb8eaf" height="250" />
 
+<img src="https://github.com/SUJITH04/Inverse-kinematic-modeling-using-robo-analyzer-/assets/130206202/b74a11c1-7f99-449d-ad37-62eae838d13c" height="250" />
 
 
 3R ROBOT
